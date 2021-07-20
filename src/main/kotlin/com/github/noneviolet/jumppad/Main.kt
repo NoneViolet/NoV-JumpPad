@@ -11,5 +11,5 @@ class Main : JavaPlugin(){
     }
 
     @OptIn(ExperimentalStdlibApi::class)
-    override fun onEnable{}
+    override fun onEnable(){}
 }
